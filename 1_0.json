@@ -3,11 +3,11 @@
     {
       "name": "Gemma-3n-E2B-it",
       "modelId": "google/gemma-3n-E2B-it-litert-lm",
-      "modelFile": "gemma-3n-E2B-it-int4.litertlm",
+      "modelFile": "gemma-3n-E2B-it-int4-Web.litertlm",
       "description": "Preview version of [Gemma 3n E2B](https://ai.google.dev/gemma/docs/gemma-3n) ready for deployment on iOS using the [MediaPipe LLM Inference API](https://ai.google.dev/edge/mediapipe/solutions/genai/llm_inference). The current checkpoint suppots text, vision, and audio input, with 4096 context length.",
       "sizeInBytes": 3388604416,
       "minDeviceMemoryInGb": 8,
-      "commitHash": "73b019b63436d346f68dd9c1dbfd117eb264d888",
+      "commitHash": "8830520aad6144bb2cc6667df352df27bf7f9421",
       "llmSupportImage": true,
       "llmSupportAudio": true,
       "defaultConfig": {
@@ -23,11 +23,11 @@
     {
       "name": "Gemma-3n-E4B-it",
       "modelId": "google/gemma-3n-E4B-it-litert-lm",
-      "modelFile": "gemma-3n-E4B-it-int4.litertlm",
+      "modelFile": "gemma-3n-E4B-it-int4-Web.litertlm",
       "description": "Preview version of [Gemma 3n E4B](https://ai.google.dev/gemma/docs/gemma-3n) ready for deployment on iOS using the [MediaPipe LLM Inference API](https://ai.google.dev/edge/mediapipe/solutions/genai/llm_inference). The current checkpoint supports text, vision, and audio input, with 4096 context length.",
       "sizeInBytes": 4652318720,
       "minDeviceMemoryInGb": 12,
-      "commitHash": "3d0179a0648381585ab337e170b7517aae8e0ce4",
+      "commitHash": "37ba4e931aa0a2abb0df9be12015949242ca40b6",
       "llmSupportImage": true,
       "llmSupportAudio": true,
       "defaultConfig": {
