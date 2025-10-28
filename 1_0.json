@@ -15,7 +15,7 @@
         "topP": 0.95,
         "temperature": 1.0,
         "maxTokens": 4096,
-        "accelerators": "cpu, gpu"
+        "accelerators": "gpu, cpu"
       },
       "taskTypes": ["llm_chat", "llm_prompt_lab", "llm_ask_image", "llm_ask_audio"],
       "bestForTaskTypes": ["llm_ask_image", "llm_ask_audio"]
@@ -35,7 +35,7 @@
         "topP": 0.95,
         "temperature": 1.0,
         "maxTokens": 4096,
-        "accelerators": "gpu, cpu"
+        "accelerators": "cpu, gpu"
       },
       "taskTypes": ["llm_chat", "llm_prompt_lab", "llm_ask_image", "llm_ask_audio"]
     },
@@ -72,7 +72,7 @@
         "topP": 0.95,
         "temperature": 1.0,
         "maxTokens": 4096,
-        "accelerators": "cpu, gpu"
+        "accelerators": "cpu"
       },
       "taskTypes": ["llm_chat", "llm_prompt_lab", "llm_ask_image", "llm_ask_audio"],
       "bestForTaskTypes": ["llm_ask_image", "llm_ask_audio"]
@@ -92,7 +92,7 @@
         "topP": 0.95,
         "temperature": 1.0,
         "maxTokens": 4096,
-        "accelerators": "cpu, gpu"
+        "accelerators": "cpu"
       },
       "taskTypes": ["llm_chat", "llm_prompt_lab", "llm_ask_image", "llm_ask_audio"]
     }
