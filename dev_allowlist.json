@@ -95,7 +95,7 @@
         "accelerators": "gpu, cpu"
       },
       "taskTypes": ["llm_chat", "llm_prompt_lab", "llm_ask_image", "llm_ask_audio"]
-    }
+    },
     {
       "name": "TinyGarden-270M",
       "modelId": "google/functiongemma-270m-it",
