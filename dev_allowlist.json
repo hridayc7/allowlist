@@ -112,10 +112,12 @@
         "accelerators": "cpu"
       },
       "taskTypes": [
-        "llm_tiny_garden"
+        "llm_tiny_garden", 
+        "llm_mobile_actions"
       ],
       "bestForTaskTypes": [
-        "llm_tiny_garden"
+        "llm_tiny_garden", 
+        "llm_mobile_actions"
       ]
     }
   ]
